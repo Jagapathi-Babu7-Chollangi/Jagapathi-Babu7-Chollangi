@@ -2,7 +2,7 @@
 
 
 🌐 ** Cloud Computing | Python | Genrative AI | AI Enthusiast **
-![Cloud GIF](https://giphy.com/gifs/digitalmaterial-it-dgmt-it-service-i9bTrs5ChdMKZk1Z1K)
+![Cloud GIF](https://media3.giphy.com/media/i9bTrs5ChdMKZk1Z1K/giphy.gif)
 ---
 ## 💻 About Me
 
