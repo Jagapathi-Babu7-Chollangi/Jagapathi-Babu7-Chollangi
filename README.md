@@ -5,6 +5,7 @@
 
 ![Cloud GIF](https://media.tenor.com/ROyzTWwpPa8AAAAM/cloud.gif)
 ![Cloud GIF](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHVoZHVxZjN2d2V1N2I5dnI5bGtnMGR4cHJqZTRsdTE0aDRpbDV5bSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/coxQHKASG60HrHtvkt/200.webp)
+![Cloud GIF](https://media.tenor.com/0v2OZdUZYm8AAAAm/ai-atea.webp)
 ---
 ## 💻 About Me
 
