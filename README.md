@@ -30,7 +30,7 @@ Technologies/Frameworks : GitHub, HTML, CSS
 ## 📢 Let's Connect!
 - 🔗 [LinkedIn](https://www.linkedin.com/in/jagapathi-babu-chollangi-587187266/)
 - 💻 [GitHub](https://github.com/Jagapathi-Babu7-Chollangi)
-- ✉️ [Email](chollangijagapathibabu@gmail.com)
+- ✉️ [Email](www.chollangijagapathibabu@gmail.com)
 - 🌐 [Website](#)
 
   🚀 *Open to opportunities in Cloud Engineer/ Cloud Architect , Developer, AI Engineer and Prompt Engineer.*
