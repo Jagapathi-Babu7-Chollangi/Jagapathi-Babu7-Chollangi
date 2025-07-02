@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Hi, I am Jagapathi Babu Chollangi
 
-<!--
-**Jagapathi-Babu7-Chollangi/Jagapathi-Babu7-Chollangi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌐 ** Cloud Computing | Python | Genrative AI | AI Enthusiast **
+---
+## 💻 About Me
 
-Here are some ideas to get you started:
+I am Aspiring Cloud Engineer with hands-on experience in AWS services, including EC2, IAM, S3, VPC, RDS, and Lambda. Passionate about cloud automation, CI/CD pipelines, and DevOps. Proficient in AWS, Python, and GitHub Actions, with a focus on designing, deploying, and optimizing secure, scalable cloud solutions. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 Skills & Expertise
+
+Cloud Platforms  -  AWS (IAM, EC2, S3, Lambda, RDS, CloudFormation), GCP
+Programming language - Python, C++
+Databases : SQL, MySQL
+Technologies/Frameworks : GitHub, HTML, CSS
+
+---
+
+## 📚 Certifications
+- ✅  Microsoft AZ-900: Azure Fundamentals
+- ✅  AWS Certified Cloud Practitioner [CLF-C02]
+- ✅  AWS Certified AI Practitione [AIF-C01]
+- ✅  SANS Foundations SEC275  
+- ✅  Google Cloud Foundations  
+- ✅  Google Cloud Generative AI 
+   
+---
+
+## 📢 Let's Connect!
+- 🔗 [LinkedIn](https://www.linkedin.com/in/jagapathi-babu-chollangi-587187266/)
+- 💻 [GitHub](https://github.com/Jagapathi-Babu7-Chollangi)
+- ✉️ [Email](chollangijagapathibabu@gmai.com)
+- 🌐 [Website](#)
+
+  🚀 *Open to opportunities in Cloud Engineer/ Cloud Architect , Developer, AI Engineer and Prompt Engineer.*
