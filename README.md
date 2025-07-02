@@ -12,8 +12,8 @@ I am Aspiring Cloud Engineer with hands-on experience in AWS services, including
 
 - Cloud Platforms  -  AWS (IAM, EC2, S3, Lambda, RDS, CloudFormation), GCP
 - Programming language - Python, C++
-- Databases : SQL, MySQL
-- Technologies/Frameworks : GitHub, HTML, CSS
+- Databases  -  SQL, MySQL
+- Technologies/Frameworks - GitHub, HTML, CSS
 
 ---
 
