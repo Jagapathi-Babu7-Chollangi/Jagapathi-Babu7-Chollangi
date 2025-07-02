@@ -3,7 +3,7 @@
 
 🌐 ** Cloud Computing | Python | Genrative AI | AI Enthusiast **
 ![Cloud GIF](https://media3.giphy.com/media/i9bTrs5ChdMKZk1Z1K/giphy.gif)
-![Cloud GIF](https://tenor.com/en-IN/view/cloud-gif-21065556)
+![Cloud GIF](https://media.tenor.com/ROyzTWwpPa8AAAAM/cloud.gif)
 ---
 ## 💻 About Me
 
