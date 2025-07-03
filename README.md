@@ -38,4 +38,4 @@ I am Aspiring Cloud Engineer with hands-on experience in AWS services, including
 - ✉️ [Email](https://chollangijagapathibabu@gmail.com)
 - 🌐 [Website](#)
 
-  🚀 *Open to opportunities in Cloud Engineer/ Cloud Architect , Python / C++ Developer, AI Engineer and Prompt Engineer.*
+  🚀 *Open to opportunities in Cloud Engineer/ Cloud Architect , Python Dev / C++ Developer and AI Engineer .*
