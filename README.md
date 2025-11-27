@@ -23,9 +23,11 @@ I am Aspiring Cloud Engineer with hands-on experience in AWS services, including
 ---
 
 ## 📚 Certifications
+- ✅  Certified in Cybersecurity ISC2 (CC)
 - ✅  Microsoft AZ-900: Azure Fundamentals
 - ✅  AWS Certified Cloud Practitioner [CLF-C02]
 - ✅  AWS Certified AI Practitione [AIF-C01]
+- ✅  Oracle Cloud Foundations Practitioner
 - ✅  SANS Foundations SEC275  
 - ✅  Google Cloud Foundations  
 - ✅  Google Cloud Generative AI 
