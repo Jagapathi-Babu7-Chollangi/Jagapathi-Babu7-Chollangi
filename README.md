@@ -1,11 +1,18 @@
 # 👋 Hi, I am Jagapathi Babu Chollangi
 
 
-🌐 ** Cloud Computing | Python | Genrative AI | AI Enthusiast **
+🌐    CyberSecurity | Cloud | Python | SQL   🌐
+
+![100](https://github.com/user-attachments/assets/afb8b376-d07f-4291-b626-b6b2206d8ba0)
+![Cloud GIF](https://media.tenor.com/0v2OZdUZYm8AAAAm/ai-atea.webp) 
+![Cloud GIF](https://media.tenor.com/ROyzTWwpPa8AAAAM/cloud.gif) 
+
+
 ![Cloud GIF](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHVoZHVxZjN2d2V1N2I5dnI5bGtnMGR4cHJqZTRsdTE0aDRpbDV5bSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/coxQHKASG60HrHtvkt/200.webp)
-![Cloud GIF](https://media.tenor.com/0v2OZdUZYm8AAAAm/ai-atea.webp)
-![Cloud GIF](https://media.tenor.com/ROyzTWwpPa8AAAAM/cloud.gif)
-![giphy](https://github.com/user-attachments/assets/cddcabf7-5346-4b0e-9b4b-ffac36b1a068)
+
+
+
+
 ---
 ## 💻 About Me
 
@@ -41,4 +48,4 @@ Encryption along with Cloud principles IAM, S3, EC2, Python and Linux.
 - ✉️ [Email](https://chollangijagapathibabu@gmail.com)
 - 🌐 [Website](#)
 
-  🚀 *Open to opportunities in CyberSecurity Analyst/ Penetration tester, Python Dev / C++ Developer .*
+  🚀 *Open to opportunities for CyberSecurity Analyst/ Penetration tester, Python Dev / C++ Developer .*
