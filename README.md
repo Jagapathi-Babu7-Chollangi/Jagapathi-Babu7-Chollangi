@@ -9,8 +9,9 @@
 ---
 ## 💻 About Me
 
-I am Aspiring Cloud Engineer with hands-on experience in AWS services, including EC2, IAM, S3, VPC, RDS, and Lambda. Passionate about cloud automation, CI/CD pipelines, and DevOps. Proficient in AWS, Python, and GitHub Actions, with a focus on designing, deploying, and optimizing secure, scalable cloud solutions. 
-
+CyberSecurity Enthusiast with Knowledge of Ethical Hacking Principles, SANS Foundations SEC275. Vulnerability
+Management, knowledge of different types of Attacks, Hackers and Data Safety standards. Prevention methods,
+Encryption along with Cloud principles IAM, S3, EC2, Python and Linux.
 ---
 
 ## 🔧 Skills & Expertise
@@ -40,4 +41,4 @@ I am Aspiring Cloud Engineer with hands-on experience in AWS services, including
 - ✉️ [Email](https://chollangijagapathibabu@gmail.com)
 - 🌐 [Website](#)
 
-  🚀 *Open to opportunities in Cloud Engineer/ Cloud Architect , Python Dev / C++ Developer and AI Engineer .*
+  🚀 *Open to opportunities in CyberSecurity Analyst/ Penetration tester, Python Dev / C++ Developer .*
